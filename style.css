@@ -8,6 +8,11 @@ font-family: 'Roboto', sans-serif;
     h1
     {font-size: 55px;
 }
+    h2{
+        font-size: 45px;
+    }
+
+
 .name-highlight{
     color: orangered;
 }
@@ -23,6 +28,10 @@ font-family: 'Roboto', sans-serif;
 .half-width img{
 
     width: 100%;
+}
+section{
+
+    padding-bottom: 150px;
 }
 
 .link-button{
